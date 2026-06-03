@@ -2,7 +2,7 @@
 ### Senior Technical Writer | Information Architect | Documentation Content Manager
 📍 New Taipei City, Taiwan (Available for Local In-Office & Remote)
 
-✉️ [davidnhaugen@gmail.com] | 🔗 [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
+ 🔗 [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
 
 ---
 
