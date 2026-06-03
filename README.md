@@ -48,6 +48,16 @@ _Note: right-click links to open in a new tab._
 * 🎵 [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
 * 🎨 [View Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Deep-dive technical help layout explaining color space management, LUT integration, and grading panel workflows.*
 
+### ⚙️ 4. API & Software Release Documentation Review Workflow
+* **Methodology:** Version Control Audit & Change Verification (Git / SVN / PDF Comparison)
+* **My Role:** Document Quality Gatekeeper & Technical Reviewer
+* **Context:** Collaborated with R&D teams during software release cycles to review updates across **43 API and technical documents**. 
+
+### How I Worked:
+* **Tracked Changes:** Monitored R&D updates checked directly into Git or SVN repositories, or conducted side-by-side PDF comparisons to identify new or modified features.
+* **Verified Clarity:** Audited all technical additions to ensure the English phrasing was accurate, the layout remained consistent, and the text was user-friendly.
+* **Release Authorization:** Acted as the final quality gatekeeper, refining formatting and text clarity before documentation was pushed live to developers and enterprise clients.
+
 ---
 
 ## 👥 Professional References
