@@ -26,7 +26,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ---
 
-## 📁 Portfolio Artifacts & Documentation Downloads
+## Portfolio Artifacts & Documentation Downloads
 
 ### 1. Product Documentation & Hardware Installation Samples
 
