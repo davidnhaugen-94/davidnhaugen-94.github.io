@@ -41,7 +41,10 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ---
 
-### 🌐 3. Live Knowledge Base & Web Help Centers (Creative Software Suite - right-click links to open in a new tab)
+### 🌐 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+
+_Note: right-click links to open in a new tab_
+
 * 🎬 [View Video Editing Help Center](https://help.cyberlink.com/stat/help/powerdirector/2025/win/enu/index.html) — *Structured online documentation covering complex multi-track timelines, proxy workflows, and video render configurations.*
 * 📸 [View Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital asset curation.*
 * 🎵 [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
