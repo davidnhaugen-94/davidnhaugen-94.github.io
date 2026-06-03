@@ -22,6 +22,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * **Technical Writing:** Developer API Documentation (JSON/XML), End-User Help Systems, Technical Setup Manuals, UI/UX Microcopy
 * **Core Toolsets:** Adobe FrameMaker, Help & Manual, EmEditor, Git/GitHub, SourceTree, TortoiseSVN, HTML/CSS
 * **Analytical Foundations:** Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
+* **Emerging Capabilities:** AI Prompting, Prompt Engineering, AI Productivity Workflows
 
 ---
 
