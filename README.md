@@ -29,8 +29,8 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 ## 📁 Portfolio Artifacts & Documentation Downloads
 
 ### 📄 1. Professional Resumes (Immediate Downloads)
-* 📥 [Download Resume: Taipei Technology Sector & Multinationals](./samples/resume_pinhan_chen_taipei.pdf) — *Tailored with bilingual frameworks optimized for traditional Taiwanese enterprises and local global tech hubs.*
-* 📥 [Download Resume: Canadian / North American Remote Market](./samples/resume_pinhan_chen_canada_remote.pdf) — *Strictly ATS-compliant, privacy-protected format focused heavily on remote cross-functional content governance and time-zone overlap configuration.*
+* 📥 [Download Resume: Taipei Technology Sector & Multinationals](./samples/resume_david_haugen_taipei.pdf) — *Tailored with bilingual frameworks optimized for traditional Taiwanese enterprises and local global tech hubs.*
+* 📥 [Download Resume: Canadian / North American Remote Market](./samples/resume_david_haugen_canada_remote.pdf) — *Strictly ATS-compliant, privacy-protected format focused heavily on remote cross-functional content governance and time-zone overlap configuration.*
 
 ### 📱 2. Product Documentation & Hardware Installation Samples
 
