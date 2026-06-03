@@ -39,10 +39,13 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released last fall. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
+---
 
-### 🌐 3. Live Knowledge Base & Web Help Centers
-* 🔗 [View Live Knowledge Base Layout](https://example.com) — *Structured online help center demonstrating user navigation hierarchies.*
-* 🔗 [View Technical Web Help Module](https://example.com) — *Deep-dive soft
+### 🌐 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+* 🎬 [View Video Editing Help Center](https://help.cyberlink.com/stat/help/powerdirector/2025/win/enu/index.html) — *Structured online documentation covering complex multi-track timelines, proxy workflows, and video render configurations.*
+* 📸 [View Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital asset curation.*
+* 🎵 [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
+* 🎨 [View Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Deep-dive technical help layout explaining color space management, LUT integration, and grading panel workflows.*
 
 ---
 
