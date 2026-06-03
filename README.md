@@ -28,18 +28,14 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ## 📁 Portfolio Artifacts & Documentation Downloads
 
-### 📄 1. Professional Resumes (Immediate Downloads)
-* 📥 [Download Resume: Taipei Technology Sector & Multinationals](./samples/resume_david_haugen_taipei.pdf) — *Tailored with bilingual frameworks optimized for traditional Taiwanese enterprises and local global tech hubs.*
-* 📥 [Download Resume: Canadian / North American Remote Market](./samples/resume_david_haugen_canada_remote.pdf) — *Strictly ATS-compliant, privacy-protected format focused heavily on remote cross-functional content governance.*
-
-### 📱 2. Product Documentation & Hardware Installation Samples
+### 📱 1. Product Documentation & Hardware Installation Samples
 
 * 💬 [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and meeting platform (similar to Zoom). Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and complex feature documentation.*
 * 👤 [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released last fall. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
-### 🌐 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+### 🌐 2. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
 
@@ -48,7 +44,7 @@ _Note: right-click links to open in a new tab._
 * 🎵 [View Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
 * 🎨 [View Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Deep-dive technical help layout explaining color space management, LUT integration, and grading panel workflows.*
 
-### ⚙️ 4. API & Software Release Documentation Review Workflow
+### ⚙️ 3. API & Software Release Documentation Review Workflow
 * **Methodology:** Version Control Audit & Change Verification (Git / SVN / PDF Comparison)
 * **My Role:** Document Quality Gatekeeper & Technical Reviewer
 * **Context:** Collaborated with R&D teams during software release cycles to review updates across **43 API and technical documents**. 
