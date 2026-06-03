@@ -39,8 +39,6 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * ⚙️ [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released last fall. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
----
-
 ### 🌐 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
