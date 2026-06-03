@@ -1,6 +1,6 @@
 # David Haugen ( 岳諾森)
 ### Senior Technical Writer | Information Architect | Documentation Content Manager
-📍 New Taipei City, Taiwan (Available for Local In-Office & Remote North American Timezones)
+📍 New Taipei City, Taiwan (Available for Local In-Office & Remote)
 
 ✉️ [davidnhaugen@gmail.com] | 🔗 [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
 
@@ -30,7 +30,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 📄 1. Professional Resumes (Immediate Downloads)
 * 📥 [Download Resume: Taipei Technology Sector & Multinationals](./samples/resume_david_haugen_taipei.pdf) — *Tailored with bilingual frameworks optimized for traditional Taiwanese enterprises and local global tech hubs.*
-* 📥 [Download Resume: Canadian / North American Remote Market](./samples/resume_david_haugen_canada_remote.pdf) — *Strictly ATS-compliant, privacy-protected format focused heavily on remote cross-functional content governance and time-zone overlap configuration.*
+* 📥 [Download Resume: Canadian / North American Remote Market](./samples/resume_david_haugen_canada_remote.pdf) — *Strictly ATS-compliant, privacy-protected format focused heavily on remote cross-functional content governance.*
 
 ### 📱 2. Product Documentation & Hardware Installation Samples
 
