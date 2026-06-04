@@ -1,4 +1,5 @@
-# David Haugen ( 岳諾森)
+### DAVID HAUGEN (岳諾森)
+
 ### Senior Technical Writer | Information Architect | Documentation Content Manager
 New Taipei City, Taiwan (Available for Local In-Office & Remote)
 
