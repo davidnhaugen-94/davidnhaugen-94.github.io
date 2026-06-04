@@ -57,4 +57,4 @@ _Note: right-click links to open in a new tab._
 ---
 
 ## Professional References
-* Full contact information for professional reference recommendations from executive leaders in Taiwan are available securely upon formal email request.
+* Full contact information and professional reference recommendations from project leaders and cross-functional partners in Taiwan are available securely upon formal email request.
