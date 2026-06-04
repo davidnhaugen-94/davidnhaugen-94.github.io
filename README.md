@@ -9,7 +9,7 @@ New Taipei City, Taiwan (Available for Local In-Office & Remote)
 ## Professional Overview
 I bridge the gap between complex engineering (RD) and the global user experience.
 
-With over 25 years in the software industry, I specialize in creating high-impact content strategies for both B2B and B2C markets. My expertise lies in transforming sophisticated technologies—such as AI facial recognition, biometric security, and eKYC solutions—into intuitive documentation and seamless UI experiences.
+With over 25 years in the software industry, I specialize in creating high-impact content strategies for both B2B and B2C markets. My expertise lies in transforming sophisticated technologies into intuitive documentation and seamless UI experiences.
 
 As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights from Reddit and community forums to continuously improve product usability.
 
