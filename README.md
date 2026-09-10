@@ -29,7 +29,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * **Documentation Strategy**: Information Architecture (IA), Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
 * **Technical Writing**: Developer & API Documentation, End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
 * **Docs-as-Code & Tooling**: OpenAPI/Swagger, Redocly, Git/GitHub, YAML, JSON, Markdown
-* **Core Tools & Technologies**: Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
+* **Core Tools & Technologies**: Visual Stuio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
 
@@ -37,20 +37,33 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ## Portfolio Artifacts & Documentation Downloads
 
-### 1. API Portal Standardization & Release Governance (Case Study)
+### 1. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
+
+- **The Challenge:** While traditional PDF and flat-file software guides provide static narrative help, modern application developers require an interactive, dynamic, single-source reference manual to reliably integrate multi-endpoint data platforms without technical friction.
+- **The Solution (Self-Directed Lab):** To master modern Docs-as-Code development tools independently, I architected a unified developer gateway—the *Luna Space Portal*—which aggregates real-time data streams from public federal telemetry endpoints (NASA and open-source weather matrices). 
+- **The Execution:** 
+  - Modeled the core data architecture contracts by intercepting and reverse-engineering live JSON payloads via **Postman**.
+  - Authored a fully structured, multi-endpoint **OpenAPI 3.0 specification file** from scratch using the **Swagger Editor**, implementing strict data schema validations, custom query parameters, object example tables, and precise error-handling workflows (including 503 retry models).
+  - Drafted a cohesive companion document ecosystem inside **Visual Studio Code**—authoring multi-page user onboarding manuals, step-by-step developer tutorials, metric data standards, and interactive navigation sidebars using semantic **Markdown**.
+  - Managed the full project delivery pipeline via a terminal command execution loop, compiling the decentralized data layers into a unified deployment asset using **Redocly CLI** and hosting it via **Git/GitHub**.
+- **The Outcome:** Successfully built and deployed a production-ready, fully interactive, three-column developer portal that beautifully pairs technical endpoint specs directly with clear, customer-centric human guidance.
+- **Explore Live Artifact:** [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
+
+
+### 2. API Portal Standardization & Release Governance (Case Study)
 
 * **The Challenge**: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
 * **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
 * **The Outcome**: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
-### 2. Product Documentation & Hardware Installation Samples
+### 3. Product Documentation & Hardware Installation Samples
 
 * [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
 * [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
-### 3. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+### 4. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
 
