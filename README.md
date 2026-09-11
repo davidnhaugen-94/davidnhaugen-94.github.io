@@ -13,13 +13,13 @@ Direct-to-business contract support is available globally. As an experienced tec
 
 ### Services Offered
 
+* **Developer & API Documentation**: Creating and refining developer documentation using OpenAPI/Swagger, Markdown, and structured documentation tools.
 * **Documentation Migration & Format Conversion**: Converting existing documentation between tools and formats, including FrameMaker, Word, Help & Manual, and Markdown.
-* **Developer Documentation & API Review**: Restructuring developer portals to improve information architecture, navigation, and content discoverability.
 * **Content Redesign & Information Architecture**: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
 
 ### My Approach
 
-As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights to continuously improve product usability.
+As a UX Advocate, I don’t just write manuals; I manage the entire content lifecycle. This includes creating and refining API and developer documentation, performing UI string reviews for global apps, and leveraging real-world insights to continuously improve product usability.
 
 I thrive in collaborative environments, partnering with stakeholders across product, engineering, and customer-facing teams to deliver high-quality documentation that drives customer success and reduces support overhead.
 
