@@ -14,6 +14,7 @@ Direct-to-business contract support is available globally. As an experienced tec
 ### Services Offered
 
 * **Developer & API Documentation**: Creating and refining developer documentation using OpenAPI/Swagger, Markdown, and structured documentation tools.
+* **Software Usability & User Testing**: Hands-on evaluation of software, workflows, and user documentation to identify usability problems, confusing instructions, inconsistencies, missing information, and unexpected behavior. I test from the user's perspective while applying experienced QA and technical-writing judgment to determine what works, what doesn't, and how it can be improved.
 * **Documentation Migration & Format Conversion**: Converting existing documentation between tools and formats, including FrameMaker, Word, Help & Manual, and Markdown.
 * **Content Redesign & Information Architecture**: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
 
