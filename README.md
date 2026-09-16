@@ -50,21 +50,35 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Outcome:** Successfully built and deployed a production-ready, fully interactive, three-column developer portal that beautifully pairs technical endpoint specs directly with clear, customer-centric human guidance.
 - **Explore Live Artifact:** [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
 
+### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
-### 2. API Portal Standardization & Release Governance (Case Study)
+- **The Challenge:** Unlike read-only data feeds, enterprise platforms that modify live system databases require strict parameter validation rules, robust data integrity dictionaries, and secure token-based authentication manuals to prevent data duplication or injection failures.
+- **The Solution (Advanced CRUD Lab):** To master full-lifecycle data operations, I engineered the *GoRest HRDb Developer Reference Manual*. This portal acts as an automated enterprise IT gateway designed to handle programmatic employee onboarding, record synchronization, and systemic offboarding routines.
+- **The Execution:**
+  - Architected and fully tested a complete, five-verb **CRUD blueprint** (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`) utilizing the **GoRest** live testing environment to map real-time server database actions.
+  - Formulated a comprehensive **OpenAPI 3.0 specification** from scratch inside **Swagger Editor**, explicitly mapping complex Request Bodies, `{id}` path parameter targets, and successful status outcomes (including `201 Created` and `204 No Content` definitions).
+  - Drafted an advanced **Fields Validation Dictionary** and **HTTPS Status Code Guide** in **Markdown** using **Visual Studio Code**, detailing strict data types, data-transformation rules (whitespace trimming and case normalization), and error resolution matrices for `422 Unprocessable Entity` states.
+  - Implemented modern **Repository Security Governance** by structuring a hidden **`.gitignore`** system-level architecture filter to protect private alphanumeric Bearer Tokens from public code-repository exposure.
+  - Executed a **Redocly CLI** compilation loop via the terminal to merge the multi-page user manuals, configuration maps, and technical endpoints into a singular static deployment webpage hosted on **GitHub Pages**.
+- **The Outcome:** Delivered a highly practical, secure, three-column developer reference platform that demonstrates total fluency in modern web service lifecycle documentation and secure source-control practices.
+- **Explore Live Artifact:** [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
+
+
+
+### 3. API Portal Standardization & Release Governance (Case Study)
 
 * **The Challenge**: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
 * **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
 * **The Outcome**: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
-### 3. Product Documentation & Hardware Installation Samples
+### 4. Product Documentation & Hardware Installation Samples
 
 * [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
 * [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
-### 4. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+### 5. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
 
