@@ -46,7 +46,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Build**: I used Swagger Editor and Visual Studio Code for development, Redocly CLI to generate the API reference, and Git/GitHub for version control and deployment.
 - **The Outcome**: The project resulted in a working, interactive developer portal that combines API reference documentation with practical user guidance.
 
-**Explore Live Artifact:** [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
+**Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
 
 ### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
@@ -56,7 +56,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code, and used Redocly CLI to combine the API reference and supporting pages into a static documentation site. I also used a .gitignore file to prevent test authentication tokens from being included in the public repository.
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
-**Explore Live Artifact:** [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
+**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
 
 ### 3. API Portal Standardization & Release Governance (Case Study)
 
