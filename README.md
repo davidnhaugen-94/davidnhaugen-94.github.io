@@ -50,18 +50,13 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
-- **The Challenge:** Unlike read-only data feeds, enterprise platforms that modify live system databases require strict parameter validation rules, robust data integrity dictionaries, and secure token-based authentication manuals to prevent data duplication or injection failures.
-- **The Solution (Advanced CRUD Lab):** To master full-lifecycle data operations, I engineered the *GoRest HRDb Developer Reference Manual*. This portal acts as an automated enterprise IT gateway designed to handle programmatic employee onboarding, record synchronization, and systemic offboarding routines.
-- **The Execution:**
-  - Architected and fully tested a complete **CRUD blueprint** (`GET`, `POST`, `PUT`, `PATCH`, `DELETE`) utilizing the **GoRest** live testing environment to map real-time server database actions.
-  - Formulated a comprehensive **OpenAPI 3.0 specification** from scratch inside **Swagger Editor**, explicitly mapping complex Request Bodies, `{id}` path parameter targets, and successful status outcomes (including `201 Created` and `204 No Content` definitions).
-  - Drafted an advanced **Fields Validation Dictionary** and **HTTPS Status Code Guide** in **Markdown** using **Visual Studio Code**, detailing strict data types, data-transformation rules (whitespace trimming and case normalization), and error resolution matrices for `422 Unprocessable Entity` states.
-  - Implemented modern **Repository Security Governance** by structuring a hidden **`.gitignore`** system-level architecture filter to protect private alphanumeric Bearer Tokens from public code-repository exposure.
-  - Executed a **Redocly CLI** compilation loop via the terminal to merge the multi-page user manuals, configuration maps, and technical endpoints into a singular static deployment webpage hosted on **GitHub Pages**.
-- **The Outcome:** Delivered a highly practical, secure, three-column developer reference platform that demonstrates total fluency in modern web service lifecycle documentation and secure source-control practices.
-- **Explore Live Artifact:** [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
+- **The Project**: I created the GoRest HRDb Developer Reference Manual as a second self-directed API documentation project, focusing on write-enabled REST APIs and the full CRUD lifecycle.
+- **The API Documentation**: I documented GET, POST, PUT, PATCH, and DELETE operations using the GoRest live testing environment. The OpenAPI 3.0 specification included request bodies, path parameters, response codes, and examples for common API operations.
+- **Supporting Documentation**: I created a Fields Validation Dictionary and HTTPS Status Code Guide in Markdown, documenting data types, validation rules, and common API errors such as 422 Unprocessable Entity.
+- **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code, and used Redocly CLI to combine the API reference and supporting pages into a static documentation site. I also used a .gitignore file to prevent test authentication tokens from being included in the public repository.
+- **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
-
+**Explore Live Artifact:** [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
 
 ### 3. API Portal Standardization & Release Governance (Case Study)
 
