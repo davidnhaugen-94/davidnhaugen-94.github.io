@@ -40,15 +40,13 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
 
-- **The Challenge:** While traditional PDF software guides provide static narrative help, modern application developers require an interactive, dynamic, single-source reference manual to reliably integrate multi-endpoint data platforms.
-- **The Solution (Self-Directed Lab):** To master modern Docs-as-Code development tools independently, I architected a unified developer gateway—the *Luna Space Portal*—which aggregates real-time data streams from public federal telemetry endpoints (NASA and open-source weather APIs). 
-- **The Execution:** 
-  - Modeled the core data architecture by reviewing live JSON payloads via **Postman**.
-  - Authored a fully structured, multi-endpoint **OpenAPI 3.0 specification file** from scratch using the **Swagger Editor**, implementing strict data schema validations, custom query parameters, object example tables, and precise error-handling workflows (including 503 retry models).
-  - Drafted a cohesive companion document ecosystem inside **Visual Studio Code** by authoring multi-page user onboarding manuals, step-by-step developer tutorials, metric data standards, and interactive navigation sidebars using **Markdown**.
-  - Managed the full project delivery pipeline via a terminal command execution loop, compiling the decentralized data layers into a unified deployment asset using **Redocly CLI** and hosting it via **Git/GitHub**.
-- **The Outcome:** Successfully built and deployed a production-ready, fully interactive, three-column developer portal that pairs technical endpoint specs directly with clear, customer-centric human guidance.
-- **Explore Live Artifact:** [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
+- **The Project**: I created the Luna Space Portal as a self-directed project to gain hands-on experience with OpenAPI, Markdown, Redocly, Git/GitHub, and modern docs-as-code workflows.
+- **The API Documentation**: I created an OpenAPI 3.0 specification covering multiple NASA data sources and documented the endpoints, parameters, response data, examples, and error conditions.
+- **Supporting Documentation**: I also created companion documentation covering getting started, data handling, troubleshooting, and API usage. The supporting pages were written in Markdown and integrated into the developer portal.
+- **The Build**: I used Swagger Editor and Visual Studio Code for development, Redocly CLI to generate the API reference, and Git/GitHub for version control and deployment.
+- **The Outcome**: The project resulted in a working, interactive developer portal that combines API reference documentation with practical user guidance.
+
+**Explore Live Artifact:** [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
 
 ### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
