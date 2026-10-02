@@ -1,6 +1,8 @@
 ### Information Architect, Docs Consultant, & Senior Technical Writer • Available for Global Contracts
 New Taipei City, Taiwan (100% Remote / Flexible & Independent)
 
+**[Available for contracts — email me](#contact)**
+
  [[://linkedin.com]](https://www.linkedin.com/in/davidnhaugen)
 
 ---
@@ -79,3 +81,7 @@ _Note: right-click links to open in a new tab._
 * [View the Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital photo curation.*
 * [View the Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
 * [View the Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Complete help layout explaining color space management, LUT integration, and grading panel workflows.*
+
+---
+
+{% include contact-section.html %}
