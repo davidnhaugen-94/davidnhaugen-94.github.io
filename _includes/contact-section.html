@@ -1,0 +1,25 @@
+<section id="contact" class="contact-section">
+<h2>Contact</h2>
+<p><strong>Available for freelance and contract work.</strong> Tell me a little about your project (what needs documenting, rough timeline, and the tools you use), and I'll reply within one business day, Taipei time (UTC+8).</p>
+<p><a id="cf-link" class="cf-button" href="#contact">Email me about your project</a></p>
+<p class="cf-plain">Email: <span id="cf-address">haugentechdocs [at] gmail [dot] com</span></p>
+</section>
+<style>
+.contact-section .cf-button { display: inline-block; font-weight: 600; padding: 0.6rem 1.4rem; border-radius: 6px; background: #1f5fa8; color: #fff; text-decoration: none; }
+.contact-section .cf-button:hover { background: #174a85; }
+.contact-section .cf-plain { margin-top: 0.8rem; }
+</style>
+<script>
+(function () {
+  // Edit these two lines with your business email.
+  // The address is split so scraper bots can't read it from the page source.
+  var user = "haugentechdocs";
+  var domain = "gmail.com";
+  var address = user + "@" + domain;
+  var subject = encodeURIComponent("Contract inquiry from your portfolio");
+  var link = document.getElementById("cf-link");
+  var shown = document.getElementById("cf-address");
+  if (link) link.href = "mailto:" + address + "?subject=" + subject;
+  if (shown) shown.textContent = address;
+})();
+</script>
