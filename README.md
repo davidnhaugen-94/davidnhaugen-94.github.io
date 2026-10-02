@@ -30,7 +30,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * **Documentation Strategy**: Information Architecture (IA), Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
 * **Technical Writing**: Developer & API Documentation, End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
 * **Docs-as-Code & Tooling**: OpenAPI/Swagger, Redocly, Git/GitHub, YAML, JSON, Markdown
-* **Core Tools & Technologies**: Visual Stuio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
+* **Core Tools & Technologies**: Visual Studio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
 
@@ -52,7 +52,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 - **The Project**: I created the GoRest HRDb Developer Reference Manual as a second self-directed API documentation project, focusing on write-enabled REST APIs and the full CRUD lifecycle.
 - **The API Documentation**: I documented GET, POST, PUT, PATCH, and DELETE operations using the GoRest live testing environment. The OpenAPI 3.0 specification included request bodies, path parameters, response codes, and examples for common API operations.
-- **Supporting Documentation**: I created a Fields Validation Dictionary and HTTPS Status Code Guide in Markdown, documenting data types, validation rules, and common API errors such as 422 Unprocessable Entity.
+- **Supporting Documentation**: I created a Fields Validation Dictionary and HTTP Status Code Guide in Markdown, documenting data types, validation rules, and common API errors such as 422 Unprocessable Entity.
 - **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code, and used Redocly CLI to combine the API reference and supporting pages into a static documentation site. I also used a .gitignore file to prevent test authentication tokens from being included in the public repository.
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
@@ -61,7 +61,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 ### 3. API Portal Standardization & Release Governance (Case Study)
 
 * **The Challenge**: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
-* **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to guarantee absolute accuracy before client delivery.
+* **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to verify against each release before client delivery.
 * **The Outcome**: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
 ### 4. Product Documentation & Hardware Installation Samples
