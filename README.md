@@ -9,7 +9,7 @@ New Taipei City, Taiwan (100% Remote / Flexible & Independent)
 
 ## Professional Overview
 
-I am a Canadian technical writer and information architect with over 25 years of experience bridging the gap between complex engineering frameworks and global users.
+I am a Canadian technical writer and information architect with over 20 years of experience bridging the gap between complex engineering frameworks and global users.
 
 Direct-to-business contract support is available globally. As an experienced technical writer who has adapted to modern documentation practices, I specialize in restructuring complex documentation so users can find what they need faster.
 
