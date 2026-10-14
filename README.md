@@ -42,7 +42,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. PDF User Guide to Interactive API Documentation Site (Migration Case Study)
 
-- **The Project**: I converted the U.S. Census Bureau's Census Data API User Guide from a PDF into an online documentation site with an interactive API reference, as a self-directed project to gain hands-on experience with Mintlify and documentation migration.
+- **The Project**: I converted the [U.S. Census Bureau's Census Data API User Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-user-guide.pdf) from a PDF into an online documentation site with an interactive API reference, as a self-directed project to gain hands-on experience with Mintlify and documentation migration.
 - **The Migration**: I converted the PDF to Markdown, cleaned up formatting from the conversion, and split the content into individual MDX pages. I kept the original guide's structure and TOC so existing users can still find what they need, and noted further structural improvements as recommendations rather than changing the client's content.
 - **The API Documentation**: I created an OpenAPI specification for three Census datasets (Population Estimates, American Community Survey, and International Trade), documenting the endpoints, parameters, and example requests. Each example in the user guide links directly to its matching endpoint so readers can try the request themselves.
 - **The Build**: I used Mintlify to build and host the site, configured the navigation and page hierarchy in docs.json, and used Git/GitHub and SourceTree for version control and deployment.
