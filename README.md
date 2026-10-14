@@ -15,7 +15,7 @@ Direct-to-business contract support is available globally. As an experienced tec
 
 ### Services Offered
 
-* **Developer & API Documentation**: Creating and refining developer documentation using OpenAPI/Swagger, Markdown, and structured documentation tools.
+* **Developer & API Documentation**: Creating and refining OpenAPI specifications, API reference documentation, and supporting developer guides, published as interactive documentation sites using docs-as-code tools such as Mintlify and Redocly.
 * **Software Usability & User Testing**: Hands-on evaluation of software, workflows, and user documentation to identify usability problems, confusing instructions, inconsistencies, missing information, and unexpected behavior. I test from the user's perspective while applying experienced QA and technical-writing judgment to determine what works, what doesn't, and how it can be improved.
 * **Documentation Migration & Format Conversion**: Converting existing documentation between tools and formats, including FrameMaker, Word, Help & Manual, and Markdown.
 * **Content Redesign & Information Architecture**: Restructuring complex knowledge bases to make information easier to find and reduce support requests.
@@ -29,9 +29,9 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 ---
 
 ## Technical Stack & Core Competencies
-* **Documentation Strategy**: Information Architecture (IA), Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
+* **Documentation Strategy**: Information Architecture (IA), Documentation Migration, Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
 * **Technical Writing**: Developer & API Documentation, End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
-* **Docs-as-Code & Tooling**: OpenAPI/Swagger, Redocly, Git/GitHub, YAML, JSON, Markdown, Mintlify, MDX
+* **Docs-as-Code & Tooling**: OpenAPI/Swagger, Mintlify, Redocly, Git/GitHub, YAML, JSON, Markdown, MDX
 * **Core Tools & Technologies**: Visual Studio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
