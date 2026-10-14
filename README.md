@@ -31,7 +31,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 ## Technical Stack & Core Competencies
 * **Documentation Strategy**: Information Architecture (IA), Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
 * **Technical Writing**: Developer & API Documentation, End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
-* **Docs-as-Code & Tooling**: OpenAPI/Swagger, Redocly, Git/GitHub, YAML, JSON, Markdown
+* **Docs-as-Code & Tooling**: OpenAPI/Swagger, Redocly, Git/GitHub, YAML, JSON, Markdown, Mintlify, MDX
 * **Core Tools & Technologies**: Visual Studio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
@@ -40,7 +40,17 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ## Portfolio Artifacts & Documentation Downloads
 
-### 1. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
+### 1. PDF User Guide to Interactive API Documentation Site (Migration Case Study)
+
+- **The Project**: I converted the U.S. Census Bureau's Census Data API User Guide from a PDF into an online documentation site with an interactive API reference, as a self-directed project to gain hands-on experience with Mintlify and documentation migration.
+- **The Migration**: I converted the PDF to Markdown, cleaned up formatting from the conversion, and split the content into individual MDX pages. I kept the original guide's structure and TOC so existing users can still find what they need, and noted further structural improvements as recommendations rather than changing the client's content.
+- **The API Documentation**: I created an OpenAPI specification for three Census datasets (Population Estimates, American Community Survey, and International Trade), documenting the endpoints, parameters, and example requests. Each example in the user guide links directly to its matching endpoint so readers can try the request themselves.
+- **The Build**: I used Mintlify to build and host the site, configured the navigation and page hierarchy in docs.json, and used Git/GitHub and SourceTree for version control and deployment.
+- **The Outcome**: The project turned a static PDF into a searchable, navigable documentation site that combines the original user guide with a live, interactive API reference.
+
+**Explore Live Artifact**: [View the Live Census Data API Documentation](https://haugen-tech-docs.mintlify.site/purpose)
+
+### 2. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
 
 - **The Project**: I created the Luna Space Portal as a self-directed project to gain hands-on experience with OpenAPI, Markdown, Redocly, Git/GitHub, and modern docs-as-code workflows.
 - **The API Documentation**: I created an OpenAPI 3.0 specification covering multiple NASA data sources and documented the endpoints, parameters, response data, examples, and error conditions.
@@ -50,7 +60,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 **Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
 
-### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
+### 3. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
 - **The Project**: I created the GoRest HRDb Developer Reference Manual as a second self-directed API documentation project, focusing on write-enabled REST APIs and the full CRUD lifecycle.
 - **The API Documentation**: I documented GET, POST, PUT, PATCH, and DELETE operations using the GoRest live testing environment. The OpenAPI 3.0 specification included request bodies, path parameters, response codes, and examples for common API operations.
@@ -60,20 +70,20 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 **Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
 
-### 3. API Portal Standardization & Release Governance (Case Study)
+### 4. API Portal Standardization & Release Governance (Case Study)
 
 * **The Challenge**: Engineering teams were producing highly technical API content, but the formatting, terminology, and structure varied because they used different tools and editorial standards.
 * **My Role**: I supported the R&D team by reviewing developer-facing API documentation, improving English clarity, and standardizing formatting and presentation across the documentation. I aligned the technical documentation directly with software updates to verify against each release before client delivery.
 * **The Outcome**: Delivered a polished, synchronized, and client-ready developer portal. This resulted in more consistent documentation structure and presentation, making the content easier to review, maintain, and navigate.
 
-### 4. Product Documentation & Hardware Installation Samples
+### 5. Product Documentation & Hardware Installation Samples
 
 * [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
 * [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 * [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
-### 5. Live Knowledge Base & Web Help Centers (Creative Software Suite)
+### 6. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
 _Note: right-click links to open in a new tab._
 
