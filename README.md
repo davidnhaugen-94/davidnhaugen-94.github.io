@@ -42,13 +42,13 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 1. PDF User Guide to Interactive API Documentation Site (Migration Case Study)
 
-- **The Project**: I converted the [U.S. Census Bureau's Census Data API User Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-user-guide.pdf) from a PDF into an online documentation site with an interactive API reference, as a self-directed project to gain hands-on experience with Mintlify and documentation migration.
+- **The Project**: I converted the [U.S. Census Bureau's Census Data API User Guide](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-user-guide.pdf){:target="_blank"} from a PDF into an online documentation site with an interactive API reference, as a self-directed project to gain hands-on experience with Mintlify and documentation migration.
 - **The Migration**: I converted the PDF to Markdown, cleaned up formatting from the conversion, and split the content into individual MDX pages. I kept the original guide's structure and TOC so existing users can still find what they need, and noted further structural improvements as recommendations rather than changing the client's content.
 - **The API Documentation**: I created an OpenAPI specification for three Census datasets (Population Estimates, American Community Survey, and International Trade), documenting the endpoints, parameters, and example requests. Each example in the user guide links directly to its matching endpoint so readers can try the request themselves.
 - **The Build**: I used Mintlify to build and host the site, configured the navigation and page hierarchy in docs.json, and used Git/GitHub and SourceTree for version control and deployment.
 - **The Outcome**: The project turned a static PDF into a searchable, navigable documentation site that combines the original user guide with a live, interactive API reference.
 
-**Explore Live Artifact**: [View the Live Census Data API Documentation](https://haugen-tech-docs.mintlify.site/purpose)
+**Explore Live Artifact**: [View the Live Census Data API Documentation](https://haugen-tech-docs.mintlify.site/purpose){:target="_blank"}
 
 ### 2. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
 
@@ -58,7 +58,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Build**: I used Swagger Editor and Visual Studio Code for development, Redocly CLI to generate the API reference, and Git/GitHub for version control and deployment.
 - **The Outcome**: The project resulted in a working, interactive developer portal that combines API reference documentation with practical user guidance.
 
-**Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/)
+**Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/){:target="_blank"}
 
 ### 3. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
@@ -68,7 +68,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code, and used Redocly CLI to combine the API reference and supporting pages into a static documentation site. I also used a .gitignore file to prevent test authentication tokens from being included in the public repository.
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
-**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/)
+**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/){:target="_blank"}
 
 ### 4. API Portal Standardization & Release Governance (Case Study)
 
@@ -78,19 +78,17 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 ### 5. Product Documentation & Hardware Installation Samples
 
-* [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf) — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
-* [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf) — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
-* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf) — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
-* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf) — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
+* [Enterprise Unified Communications User Manual](./samples/public-software-user-manual.pdf){:target="_blank"} — *The complete, comprehensive user guide for a messaging and online meeting platform. Downloaded directly from the public corporate website, this asset demonstrates large-scale content curation, multi-chapter navigation design, and the complete feature documentation.*
+* [Facial Recognition Terminal Setup Guide](./samples/sanitized-access-terminal-setup-guide.pdf){:target="_blank"} — *A fully sanitized, NDA-compliant enterprise software installation manual for access terminal hardware. Branding has been removed to preserve IP while showcasing structural hierarchy and information mapping.*
+* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide1.pdf){:target="_blank"} — *Commercially released in 2023. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
+* [Retail Quick Start Guide (QSG)](./samples/retail-quick-start-guide2.pdf){:target="_blank"} — *Commercially released in 2025. Demonstrates high-density, minimalist writing tailored for tight physical layout constraints in a retail box configuration.*
 
 ### 6. Live Knowledge Base & Web Help Centers (Creative Software Suite)
 
-_Note: right-click links to open in a new tab._
-
-* [View the Video Editing Help Center](https://help.cyberlink.com/stat/help/powerdirector/2025/win/enu/index.html) — *Structured online documentation covering complex multi-track timelines, proxy workflows, and video render configurations.*
-* [View the Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html) — *User navigation layout optimized for raw image processing, layer management, and digital photo curation.*
-* [View the Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html) — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
-* [View the Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html) — *Complete help layout explaining color space management, LUT integration, and grading panel workflows.*
+* [View the Video Editing Help Center](https://help.cyberlink.com/stat/help/powerdirector/2025/win/enu/index.html){:target="_blank"} — *Structured online documentation covering complex multi-track timelines, proxy workflows, and video render configurations.*
+* [View the Photo Editing Knowledge Base](https://help.cyberlink.com/stat/help/photodirector/2025/pc/enu/index.html){:target="_blank"} — *User navigation layout optimized for raw image processing, layer management, and digital photo curation.*
+* [View the Audio Editing Reference Module](https://help.cyberlink.com/stat/help/audiodirector/2025/enu/index.html){:target="_blank"} — *Clear, step-by-step documentation detailing audio track mixing, waveform editing, and master output settings.*
+* [View the Color Grading Digital Help Guide](https://help.cyberlink.com/stat/help/colordirector/2025/enu/index.html){:target="_blank"} — *Complete help layout explaining color space management, LUT integration, and grading panel workflows.*
 
 ---
 
