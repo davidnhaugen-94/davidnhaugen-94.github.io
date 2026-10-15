@@ -32,7 +32,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 * **Documentation Strategy**: Information Architecture (IA), Documentation Migration, Content Curation, Content Lifecycle Management, Single-Sourcing, Release Readiness
 * **Technical Writing**: Developer & API Documentation, End-User Help Systems, Technical Setup Manuals, UI/UX Text & Messaging
 * **Docs-as-Code & Tooling**: OpenAPI/Swagger, Mintlify, Redocly, Git/GitHub, YAML, JSON, Markdown, MDX
-* **Core Tools & Technologies**: Visual Studio Code, Help + Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
+* **Core Tools & Technologies**: Visual Studio Code, Help+Manual, Adobe FrameMaker, EmEditor, SourceTree, TortoiseSVN, HTML/CSS, XML
 * **Analytical Foundations**: Business Analysis, Software Quality Assurance (QA) Protocols, Test Execution
 * **Emerging Capabilities**: AI Prompting, Prompt Engineering, AI Productivity Workflows
 
