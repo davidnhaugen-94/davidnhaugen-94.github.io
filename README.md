@@ -65,10 +65,10 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Project**: I created the GoRest HRDb Developer Reference Manual as a second self-directed API documentation project, focusing on write-enabled REST APIs and the full CRUD lifecycle.
 - **The API Documentation**: I documented GET, POST, PUT, PATCH, and DELETE operations using the GoRest live testing environment. The OpenAPI 3.0 specification included request bodies, path parameters, response codes, and examples for common API operations.
 - **Supporting Documentation**: I created a Fields Validation Dictionary and HTTP Status Code Guide in Markdown, documenting data types, validation rules, and common API errors such as 422 Unprocessable Entity.
-- **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code, and used Redocly CLI to combine the API reference and supporting pages into a static documentation site. I also used a .gitignore file to prevent test authentication tokens from being included in the public repository.
+- **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code. I then used Mintlify to build and host the site, configured the navigation and page hierarchy in docs.json, and Git/GitHub for version control and deployment.
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
-**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://davidnhaugen-94.github.io/hrdb/){:target="_blank"}
+**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual]([https://davidnhaugen-94.github.io/hrdb/](https://hr-db.mintlify.site/docs/intro)){:target="_blank"}
 
 ### 4. API Portal Standardization & Release Governance (Case Study)
 
