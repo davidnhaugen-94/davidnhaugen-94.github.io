@@ -68,7 +68,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Build**: I created the OpenAPI specification in Swagger Editor, wrote the supporting Markdown documentation in Visual Studio Code. I then used Mintlify to build and host the site, configured the navigation and page hierarchy in docs.json, and Git/GitHub for version control and deployment.
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
-**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://hr-db.mintlify.site/docs/intro)){:target="_blank"}
+**Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://hr-db.mintlify.site/docs/intro){:target="_blank"}
 
 ### 4. API Portal Standardization & Release Governance (Case Study)
 
