@@ -50,17 +50,7 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 
 **Explore Live Artifact**: [View the Live Census Data API Documentation](https://haugen-tech-docs.mintlify.site/purpose){:target="_blank"}
 
-### 2. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
-
-- **The Project**: I created the Luna Space Portal as a self-directed project to gain hands-on experience with OpenAPI, Markdown, Redocly, Git/GitHub, and modern docs-as-code workflows.
-- **The API Documentation**: I created an OpenAPI 3.0 specification covering multiple NASA data sources and documented the endpoints, parameters, response data, examples, and error conditions.
-- **Supporting Documentation**: I also created companion documentation covering getting started, data handling, troubleshooting, and API usage. The supporting pages were written in Markdown and integrated into the developer portal.
-- **The Build**: I used Swagger Editor and Visual Studio Code for development, Redocly CLI to generate the API reference, and Git/GitHub for version control and deployment.
-- **The Outcome**: The project resulted in a working, interactive developer portal that combines API reference documentation with practical user guidance.
-
-**Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/){:target="_blank"}
-
-### 3. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
+### 2. Write-Enabled REST API & Enterprise CRUD Directory (Technical Case Study)
 
 - **The Project**: I created the GoRest HRDb Developer Reference Manual as a second self-directed API documentation project, focusing on write-enabled REST APIs and the full CRUD lifecycle.
 - **The API Documentation**: I documented GET, POST, PUT, PATCH, and DELETE operations using the GoRest live testing environment. The OpenAPI 3.0 specification included request bodies, path parameters, response codes, and examples for common API operations.
@@ -69,6 +59,16 @@ I thrive in collaborative environments, partnering with stakeholders across prod
 - **The Outcome**: The project gave me hands-on experience documenting APIs that modify data as well as retrieve it, including request validation, CRUD operations, authentication considerations, and common HTTP responses.
 
 **Explore Live Artifact**: [View the Live GoRest HRDb Developer Manual](https://hr-db.mintlify.site/docs/intro){:target="_blank"}
+
+### 3. Interactive Developer Portal & OpenAPI Architecture (Technical Case Study)
+
+- **The Project**: I created the Luna Space Portal as a self-directed project to gain hands-on experience with OpenAPI, Markdown, Redocly, Git/GitHub, and modern docs-as-code workflows.
+- **The API Documentation**: I created an OpenAPI 3.0 specification covering multiple NASA data sources and documented the endpoints, parameters, response data, examples, and error conditions.
+- **Supporting Documentation**: I also created companion documentation covering getting started, data handling, troubleshooting, and API usage. The supporting pages were written in Markdown and integrated into the developer portal.
+- **The Build**: I used Swagger Editor and Visual Studio Code for development, Redocly CLI to generate the API reference, and Git/GitHub for version control and deployment.
+- **The Outcome**: The project resulted in a working, interactive developer portal that combines API reference documentation with practical user guidance.
+
+**Explore Live Artifact**: [View the Live Luna Space Portal Developer Manual](https://davidnhaugen-94.github.io/lsp/){:target="_blank"}
 
 ### 4. API Portal Standardization & Release Governance (Case Study)
 
